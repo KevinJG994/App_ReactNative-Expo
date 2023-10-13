@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   separator: {
+    color: "rgb(280, 198, 29)",
     marginVertical: 30,
     height: 1,
     width: '80%',
